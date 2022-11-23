@@ -56,6 +56,6 @@ El uso v-bindes súper común, tan común que hay una forma abreviada para eso, 
 
 Como puede imaginar, dado que hay tantos atributos HTML diferentes, hay muchos casos de uso para v-bind. Por ejemplo, puede vincular una descripción a un altatributo, vincular una URL a un href, vincular algunos estilos dinámicos a un atributo classo style, habilitar y deshabilitar un botón, etc.
 
-
+![Img 3 L3](https://github.com/yllorca/intro-vue3/blob/L3-start/assets/images/v-bind.png?raw=true)
 
 
